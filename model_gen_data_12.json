@@ -1,0 +1,1 @@
+{"response": ["EH_16", "EW_16", "ISI_EH_16", "ISI_EW_16"], "objective": null, "obj-bounds": null, "train": {"epochs": 2000, "batch-size": 200, "optimizer": "adam", "activation": "relu", "split-test": 0.2, "seed": null}, "pp": {"response": "min-max", "features": "min-max"}}

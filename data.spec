@@ -1,0 +1,20 @@
+[
+  {"label":"c1","type":"input","range":"float","rad-rel":0.099},
+  {"label":"c2","type":"input","range":"float","rad-rel":20},
+  {"label":"c3","type":"input","range":"float","rad-rel":16},
+  {"label":"c4","type":"input","range":"float","rad-rel":0.05},
+  {"label":"c5","type":"input","range":"float","rad-rel":16},
+  {"label":"c6","type":"input","range":"float","rad-rel":8},
+  {"label":"c7","type":"input","range":"float","rad-rel":0.9},
+  {"label":"c8","type":"input","range":"float","rad-rel":18},
+  {"label":"c9","type":"input","range":"float","rad-rel":10},
+  {"label":"c10","type":"input","range":"float","rad-rel":0.1},
+  {"label":"c11","type":"input","range":"float","rad-abs":0.2},
+  {"label":"d1","type":"categorical","range":"int","rad-abs":1},
+  {"label":"d2","type":"categorical","range":"int","rad-abs":1},
+  {"label":"d3","type":"categorical","range":"int","rad-abs":1},
+  { "label": "EH_16", "type": "response", "range": "float" },
+  { "label": "EW_16", "type": "response", "range": "float" },
+  { "label": "ISI_EH_16", "type": "response", "range": "float" },
+  { "label": "ISI_EW_16", "type": "response", "range": "float" }
+]
